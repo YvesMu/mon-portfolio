@@ -63,6 +63,11 @@ VITE_AIRTABLE_API_KEY=patGCBLW3jHuNnMgX.3d5d1367a0bea724a20b2d9e4195f059a9fc9669
     <h2>📄 Licence</h2>
     <p>Open-source à but éducatif.</p>
   </div>
+    <div>
+    <h2>Compte Administrateur : </h2>
+      <p>yvesmu@yahoo.com </p>
+    <p>MDP : c123456789</p>
+  </div>
 </body>
 </html>
 

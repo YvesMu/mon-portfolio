@@ -32,8 +32,8 @@
     </ul>
     </div>
     <h2>🛠️ Installation</h2>
-    <pre><code>git clone https://github.com/YvesMu/Projet_airtable_MUYves.git
-cd Projet_airtable_MUYves
+    <pre><code>git clone https://github.com/YvesMu/https://github.com/YvesMu/mon-portfolio/
+cd mon-portfolio
 npm install</code></pre>
 <div>
     <h2>🔐 Fichier .env</h2>

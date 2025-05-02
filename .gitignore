@@ -1,0 +1,43 @@
+# Node modules
+/node_modules/
+
+# Répertoires de build
+/dist/
+/build/
+
+# Fichiers temporaires
+*.log
+*.env
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# MacOS: fichiers systèmes (ex: .DS_Store)
+.DS_Store
+
+# Fichiers générés par npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers de cache npm
+/.npm
+
+# Fichiers de dépendances Yarn
+/.yarn
+/.pnp/
+
+# Fichiers de configuration de test
+/coverage/
+
+# Cache de précompilation Vue.js
+/.vite/
+
+# Fichiers spécifiques à l'éditeur de texte
+*.sublime-workspace
+*.sublime-project
+
+# Fichiers personnels
+*.swp
+*.swo

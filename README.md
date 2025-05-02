@@ -65,44 +65,4 @@ VITE_AIRTABLE_API_KEY=patGCBLW3jHuNnMgX.3d5d1367a0bea724a20b2d9e4195f059a9fc9669
   </div>
 </body>
 </html>
-<style>
-body {
-  font-family: 'Segoe UI', sans-serif;
-  background: #f9f9fb;
-  color: #333;
-  padding: 2rem;
-}
 
-.readme-container {
-  background: white;
-  max-width: 800px;
-  margin: auto;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-}
-
-h1, h2 {
-  color: #2c3e50;
-}
-
-ul {
-  padding-left: 1.2rem;
-}
-
-li {
-  margin-bottom: 0.5rem;
-}
-
-pre {
-  background: #eee;
-  padding: 1rem;
-  border-radius: 6px;
-  overflow-x: auto;
-  font-family: monospace;
-}
-
-code {
-  font-size: 0.95rem;
-}
-</style>
